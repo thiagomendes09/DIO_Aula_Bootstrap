@@ -1,0 +1,28 @@
+h3 {
+    padding-bottom: 30px;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    background: grey;
+}
+
+.whoweare {
+    background: #F5B7B1;
+}
+
+.partners {
+    background-color: #F9E79F ;
+}
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: #5D6D7E;
+}
